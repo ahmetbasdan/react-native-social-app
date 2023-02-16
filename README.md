@@ -1,4 +1,4 @@
-# react-native-fitness-app
+# react-native-social-app
 
 ![](https://github.com/ahmetbasdan/react-native-social-app/blob/master/assets/preview.jpg)
 
