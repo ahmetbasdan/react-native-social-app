@@ -1,0 +1,15 @@
+export default {
+    backArrow:require("@/assets/icons/backArrow.png"),
+    nextArrow:require("@/assets/icons/nextArrow.png"),
+    favorite:require("@/assets/icons/favorite.png"),
+    galery:require("@/assets/icons/galery.png"),
+    home:require("@/assets/icons/home.png"),
+    menu:require("@/assets/icons/menu.png"),
+    message:require("@/assets/icons/message.png"),
+    options:require("@/assets/icons/options.png"),
+    profile:require("@/assets/icons/profile.png"),
+    saved:require("@/assets/icons/saved.png"),
+    search:require("@/assets/icons/search.png"),
+    share:require("@/assets/icons/share.png"),
+    notify:require("@/assets/icons/notify.png"),
+};
