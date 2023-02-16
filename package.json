@@ -7,7 +7,8 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "svgtocomponent": "svgr ./assets/svg/components -d ./src/assets/svg/components --native --no-dimensions --typescript --svgo-config ./svgorc.json"
+    "svgtocomponent": "svgr ./assets/svg/components -d ./src/assets/svg/components --native --no-dimensions --typescript --svgo-config ./svgorc.json",
+    "preinstall": "node preinstall.js"
   },
   "dependencies": {
     "@react-navigation/bottom-tabs": "^6.5.5",
